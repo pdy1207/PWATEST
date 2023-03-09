@@ -20,7 +20,8 @@ PWA는 progressive web app으로,
 - sw.js
 - ※ [IOS 현재 PWA 지원을 안하고있다는..](https://yozm.wishket.com/magazine/detail/537/)
 ```
-(serviceworker를 활성화하는 스크립트. 서비스 워커는 웹페이지와는 별도로 백그라운드에서 실행되는데. 잘만 쓰면 푸시도 받을 수 있다 - 안드로이드만)
+(serviceworker를 활성화하는 스크립트. 서비스 워커는 웹페이지와는 별도로 백그라운드에서 실행되는데. 
+잘만 쓰면 푸시도 받을 수 있다 - 안드로이드만)
 ```
 - main.js/sw.js 등록 스크립트
 ```
